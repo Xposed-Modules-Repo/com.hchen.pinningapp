@@ -2,10 +2,10 @@
 <h1>Pinning App</h1>
 
 ![stars](https://img.shields.io/github/stars/HChenX/PinningApp?style=flat)
-![downloads](https://img.shields.io/github/downloads/HChenX/PinningApp/total)
+![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.hchen.pinningapp/total)
 ![Github repo size](https://img.shields.io/github/repo-size/HChenX/PinningApp)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/HChenX/PinningApp)](https://github.com/HChenX/PinningApp/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date/HChenX/PinningApp)](https://github.com/HChenX/PinningApp/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.hchen.pinningapp)](https://github.com/Xposed-Modules-Repo/com.hchen.pinningapp/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/com.hchen.pinningapp)](https://github.com/Xposed-Modules-Repo/com.hchen.pinningapp/releases)
 ![last commit](https://img.shields.io/github/last-commit/HChenX/PinningApp?style=flat)
 ![language](https://img.shields.io/badge/language-java-purple)
 
