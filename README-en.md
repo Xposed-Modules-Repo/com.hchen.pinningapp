@@ -31,6 +31,10 @@
   gestures such as back will be disabled.
 - The GIF animation below illustrates this:
 
+![GIF](https://github.com/HChenX/PinningApp/blob/master/pinning_app_gif.gif)
+
+- Unable to view click [here](https://github.com/HChenX/PinningApp/blob/master/pinning_app_gif.gif)
+
 ### Usage:
 
 - First, make sure you are using a Xiaomi phone as the module only supports Xiaomi phones! Of
